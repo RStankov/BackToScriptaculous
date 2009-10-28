@@ -1,0 +1,34 @@
+x	Event
+v	Hightlight
+v	Morph
+v	Move
+x	Opacity
+x	Parallel
+v	Scale
+x	Transform
+x	Tween
+	
+v	Appear
+v	BlindDown
+v	BlindUp
+v	DropOut
+v	Fade
+-	Fold
+-	Grow
+x	MoveBy
+x	Puff
+-	Pulsate
+v	ScrollTo
+-	Shake
+-	Shrink
+v	SlideDown
+v	SlideUp
+v	Squish
+-	SwitchOff
+	
+v	toggle
+	
+legend:
+  x - not planned
+  v - ported
+  - - planned
