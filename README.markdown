@@ -2,7 +2,7 @@ Back to scriptaculous
 =========
 
 ## A backward lib between scriptaculous and scripty2
-Back to scriptaculous is an open source project, who is trying to import as much as possible from scriptaculous to the new awesome Scripty2 engine.
+Back to scriptaculous is an open source project, which is trying to import as much as possible from scriptaculous to the new awesome Scripty2 engine.
 
 ## Building
 
